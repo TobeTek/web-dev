@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Web Development Course
 
-You can use the [editor on GitHub](https://github.com/TobeTek/web-dev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Download the lesson notes and dive in!
+Each module contains instructions, explanations, and assessments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> New modules will be updated over time
 
-### Markdown
+## Modules:
+ - [x] [Module 1 - Getting Started](https://github.com/TobeTek/web-dev/raw/master/Module%201%20-%20Web%20Development%20-%20Getting%20Started.pdf)
+ - [ ] [Module 2 - HTML - Creating Structure]()
+ - [ ] [Module 3 - HTML - Embeds and Tables]()
+ - [ ] [Module 4 - CSS - Syntax and Overview]()
+ - [ ] [Module 5 - CSS - Rulesets and Properties]()
+ - [ ] [Module 6 - CSS - Layout]()
+ - [ ] [Module 7 - JavaScript Basics]()
+ - [ ] [Module 8 - Getting to Production - Using CSS libraries (Bootstrap)]()
+ - [ ] [Module 9 - Getting to Production - Hosting Using GitHub Pages]()
+ - [ ] [Module 10 - Getting to Production - Hosting Using Netlify]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TobeTek/web-dev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Feedback and Errata
+> Have a question? Noticed an error? Send a mail to katchyemma@gmail.com
