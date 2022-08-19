@@ -5,7 +5,7 @@ Each module contains instructions, explanations, and assessments.
 **Modules will be updated over time**
  - [Module 1 - Getting Started](https://github.com/TobeTek/web-dev/raw/master/Module%201%20-%20Web%20Development%20-%20Getting%20Started.pdf)
  - [Module 2 - HTML - Creating Structure](https://github.com/TobeTek/web-dev/raw/master/Module%202%20-%20Web%20Development%20-%20HTML%20-%20Creating%20Structure.pdf)
- - [Module 3 - HTML - Embeds and Tables]()
+ - [Module 3 - Web Development - Embeds and Tables.pdf](https://github.com/TobeTek/web-dev/files/9379134/Module.3.-.Web.Development.-.Embeds.and.Tables.pdf)
  - [Module 4 - CSS - Syntax and Overview]()
  - [Module 5 - CSS - Rulesets and Properties]()
  - [Module 6 - CSS - Layout]()
