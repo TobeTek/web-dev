@@ -1,2 +1,3 @@
-theme: jekyll-theme-tactile
-google_analytics: G-G30S3KJ178
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme
+
